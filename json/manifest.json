@@ -1,0 +1,20 @@
+{
+    "name": "projeto 02",
+    "short_name": "PWA",
+    "start_url": ".",
+    "display": "Standalone",
+    "background_color": "#112800",
+    "theme_color": "#d6d6d6",
+    "icons": [
+        {
+            "src": "/icon.icone_128.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "/icon.icone_512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}

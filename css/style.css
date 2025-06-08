@@ -1,0 +1,77 @@
+body{
+    text-align: center ;
+    background-color:#110027;
+    font-family: 'Arial';
+    color: #000000;
+}
+
+#card{
+    border: 3px solid #000000;
+    background-color: #ffffff;
+    border-radius: 25px;
+    margin: auto;
+    padding: 25px;
+    height: 284px;
+    width: 271px;
+}
+
+#entrada{
+    margin-top: -10px;
+}
+#saida{
+    margin-top:-7px;
+    display: none;
+}
+
+#aviso{
+    background-color: #ffb039;
+    color: #da0a0a;
+    border-radius: 10px;
+    width: max-content;
+    margin: auto;
+    display: none;
+}
+
+.botao{
+    background-color:#202020;
+    font-family: 'Arial';
+    color: #f1f1f1;
+    width: 270px;
+    height: 50px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.v{
+    margin-top: 0px;
+}
+
+label, input{
+    display: block;
+    color: #000000;
+    margin-top: 7px;
+}
+
+input{
+    border-radius: 8px;
+    height: 40px;
+    width: 263px;
+    background-color: #d6d6d6;
+}
+
+h2, h3{
+    margin-top: -5px;
+}
+
+h2{
+    background-color: #cfcfcf;
+    border-radius: 10px;
+}
+
+h3{
+    height: 22px;
+}
+
+#R_classificacao{
+    border-radius: 10px;
+}
